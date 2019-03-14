@@ -39,9 +39,11 @@ Website is to consist of four website pages.
 
 ## _Colour Scheme_
 
-Warm Orange pallet
-
+Choice of colours: Warm Orange pallet
 [Colour Scheme](file:///home/fiona/Desktop/BeCode_Projects/FOMP/RESOURCES/fomp-color-scheme.png)
+
+[Font 1: Titles, Headers, Menus](https://fonts.google.com/specimen/Quicksand?selection.family=Quicksand)
+[Font 2: Paragraphs, Block text](https://fonts.google.com/specimen/Open+Sans)
 
 _Logo_
 ![FOMP](file:///home/fiona/Desktop/BeCode_Projects/FOMP/RESOURCES/logo.png)
@@ -56,17 +58,5 @@ _More To Follow:_
 ## Link to Final Page 
 
 
-
-
-
-Is it in progress? Do you want to make any changes? Do you want us to help you?
-What's in it?
-
-What's in it? Help us to understand in one sentence what we should discover in several minutes: is it in MVC, in laravel? Is it made from A to Z? Is there a database? If so, is the MCD (conceptual data model) complicated? Can you put it in the readme?
-How do you install it?
-
-It's always good to explain to friends how to set up your work locally. Either so they can use it or so they can help you improve it!
-Where did it come from? A client or an exercise to do in class... Specify!
-Small examples to illustrate
 
 
