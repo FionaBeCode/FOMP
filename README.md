@@ -40,6 +40,12 @@ Website is to consist of four website pages.
 ## _Colour Scheme_
 
 Choice of colours: Warm Orange pallet
+#f03a47
+#f7b267
+#f79d65
+#f4845f
+#f27059
+
 [Colour Scheme](file:///home/fiona/Desktop/BeCode_Projects/FOMP/RESOURCES/fomp-color-scheme.png)
 
 [Font 1: Titles, Headers, Menus](https://fonts.google.com/specimen/Quicksand?selection.family=Quicksand)
@@ -49,9 +55,13 @@ _Logo_
 ![FOMP](file:///home/fiona/Desktop/BeCode_Projects/FOMP/RESOURCES/logo.png)
 
 _More To Follow:_ 
+
 -Screenshoot Website Page 1 
+
 -Screenshoot Website Page 1 
+
 -Screenshoot Website Page 1 
+
 -Screenshoot Website Page 1 
 
 
