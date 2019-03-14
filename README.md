@@ -4,61 +4,60 @@
 
 We are aiming to create a streaming service website 
 
-## Project HTML & CSS Group: Fiona, Marijn , Olivier, Pablo
+## Project HTML & CSS Group: Fiona, Marijn, Olivier, Pablo.
+March 2019 (Month one: BeCode Training Exercise Opleiding)
+**Timeline**: Project Duration 3-4 days
 
-**Team FOMP Contributors**:
-[**Marijn**](https://github.com/MarijnSt)
-[**Olivier **](https://github.com/Ollivdh)
-[**Pablo DeZutter**](https://github.com/pablodezutter)
-[**Fiona O'Brien**]()
+## **Team FOMP Contributors**:
 
-https://github.com/pablodezutter
-**Explaination**:
+[**Marijn Stammeleer aka MarijnSt**](https://github.com/MarijnSt)
+
+[**Olivier Van Den Heede aka Ollivdh**](https://github.com/Ollivdh)
+
+[**Pablo DeZutter aka pablodezutter**](https://github.com/pablodezutter)
+
+[**Fiona O'Brien aka FionaBeCode**](https://github.com/FionaBeCode)
+
+
+## **Explaination**:
+
 Exercise to create a website for an imaginary company using HTML & CSS. 
 Website is to consist of four website pages. 
 
-_Tasks divided as follows:_
-**Marijn** Logo and Landing Home Page
-**Fiona** Features and Search Categories
-**Pablo** Subscription Page and Prices
-**Olivier** Contact Page and Customer Service , Footer
+## _Tasks divided as follows:_
 
-_Company Name_ 
+-**Marijn** Logo and Landing Home Page
+
+-**Fiona** Features and Search Categories
+
+-**Pablo** Subscription Page and Prices
+
+-**Olivier** Contact Page and Customer Service & Footer
+
+## _Company Name_ 
 **FOMP**
 
-_Colour Scheme_
+## _Colour Scheme_
+
 Warm Orange pallet
+
 [Colour Scheme](file:///home/fiona/Desktop/BeCode_Projects/FOMP/RESOURCES/fomp-color-scheme.png)
 
 _Logo_
 ![FOMP](file:///home/fiona/Desktop/BeCode_Projects/FOMP/RESOURCES/logo.png)
 
-
+_More To Follow:_ 
+-Screenshoot Website Page 1 
+-Screenshoot Website Page 1 
+-Screenshoot Website Page 1 
+-Screenshoot Website Page 1 
 
 
 ## Link to Final Page 
 
 
 
-Questions to ask yourself....
 
-To write a quality readme, you have to ask yourself several questions:
-Who did the project:
-
-if you're all alone, it's you but if you've worked in a group on a project, the least you can do is to mention the friends and (because we're well-mannered) link their name/pseudo to their github.
-What is it?
-
-What is it? Is it a recipe for sauerkraut? No, it is an application intended for mobile use to find a soul mate for a English-speaking and rhubarb loving audience. Well, say it!
-When did you work on it?
-
-Was it yesterday or three years ago? Because certainly, the repo on GitHub will mention the dates but it's still more pleasant to read when a human explains to you that the website showcases the grey shrimp lovers was made during the summer of 2015 during a hackathon that took place in Miribel. Also, the mention of changes made over time may be important for some applications.
-Where have you been?
-
-Where have you been? What were you doing? During your career as a developer, you will probably have to work in several companies. It doesn't make the same sense if you explain that you worked on a billing system when you were Senior Developer at BigPrestigious Box as if you were a learner at BeCodeQuiFormeDesNewbies. Explain to us where you were in your career path when you developed your project.
-What does it look like?
-
-Because posting your code is good, but putting a little preview in the form of a screenshot (or even just your application logo) is better. And a link to an online demo is even more like a class!
-The progression... Is it over?
 
 Is it in progress? Do you want to make any changes? Do you want us to help you?
 What's in it?
