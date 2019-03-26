@@ -49,6 +49,7 @@ Choice of colours: Warm Orange pallet
 [Colour Scheme](file:///home/fiona/Desktop/BeCode_Projects/FOMP/RESOURCES/fomp-color-scheme.png)
 
 [Font 1: Titles, Headers, Menus](https://fonts.google.com/specimen/Quicksand?selection.family=Quicksand)
+
 [Font 2: Paragraphs, Block text](https://fonts.google.com/specimen/Open+Sans)
 
 _Logo_

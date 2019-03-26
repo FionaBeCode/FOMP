@@ -1,0 +1,41 @@
+.h1, .title{
+    color: #f79d65
+    font-family: 'Quicksand', sans-serif;
+}
+#body{
+    background-color: cornsilk
+    color: #f27059
+    font-family: 'Open Sans', sans-serif;
+}
+#col {
+    background: linear-gradient(to right, orange, red); 
+}
+
+.h1, .h2, .h3, .h4, .h5{text-shadow: grey="10px"; 
+    color: #f7b267;
+}
+
+.card{ 
+    height: 550px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.2s;
+   
+}
+.card:hover {
+    box-shadow: 0 16px 16px 0 rgba(0,0,0,0.2);
+  }
+  .container { align-self: auto;
+    padding: 2px 16px;
+  }
+.col {
+    background-color: #f7b42c;
+    background-image: linear-gradient(315deg, #f7b42c 0%, #fc575e 74%);
+    }
+.carousel-item {
+    background-image: linear-gradient(315deg, #f7b42c 0%, #fc575e 74%);
+}
+    
+      
+      
+      
+      
